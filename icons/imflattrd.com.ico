@@ -1,0 +1,39 @@
+<html>
+    <head>
+		<title>imFlattrd.com - favicon.ico</title>        <link rel="stylesheet" href="/style/style.css" type="text/css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="google-site-verification" content="8V_QDOBEwGz1qBIyAj0XQnk6o-WoIXVsauDRa8ZruOU" />
+    </head>
+<body>
+    <div id="wrap">
+        <div id="header">
+            <a href="/"><h1 id="logo"><span>imFlattrd.com</span></h1></a>
+        </div>
+        <div id="main">
+        <div id="person">
+	<h1>Sorry, no user found.</h1>
+</div>
+        </div>
+		<div id="footer">
+			<small>
+							<a href="/login">Login</a> | <a href="/signup">Signup</a> | <a href="/about">About</a> | <a href="/disclaimer">Disclaimer</a>
+						  | Made by <a href="http://www.imflattrd.com/Pelle">Pelle</a> & <a href="http://www.imflattrd.com/Javve">Jonny</a>
+			</small>
+		</div>
+    </div>
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-9812399-8']);
+	  _gaq.push(['_setDomainName', '.imflattrd.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>404 Error</title>
+	<meta http-equiv="refresh" content="1; URL=/"> 
+	<link rel="stylesheet" type="text/css" href="/include/style.css">
+</head>	
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+ <td align="center" valign="middle"><table width="100%" cellspacing="0" cellpadding="0" border="0" >
+<tr>
+ <td><img src="/images/wfb_logo.gif" border="0"></td>
+ <td align="right"><font style="font-family: Verdana; font-size: 12px; font-weight: bold;"><b>Seite nicht gefunden &nbsp;<br>
+ Page non trouvée &nbsp;<br>
+ Page not found &nbsp;<br>
+ Pagina non trovata &nbsp;</font></td>
+</tr>
+<tr>
+ <td colspan="2"><hr /></td>
+</tr>
+<tr>
+ <td colspan="2"><p class="text">&nbsp; In wenigen Sekunden werden Sie automatisch <a href="/">weitergeleitet</A>.<br>
+ &nbsp; Dans peu de secondes, vous êtes <a href="/">transmis</A> automatiquement.<br>
+ &nbsp; In few seconds you are <a href="/">passed on</A> automatically.<br>
+ &nbsp; In pochi secondi siete <a href="/">passati</A> automaticamente sopra.<br></p>
+
+
+&nbsp; Log: 16.01.2012 07:48:41</td>
+</tr>
+</table></td>
+</tr>
+</table>
+</body>
+</html>

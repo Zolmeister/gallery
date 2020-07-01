@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html>
+<head><title>pwnd -Zolmeister</title>
+<style>
+	body {
+		overflow: hidden;
+	}
+</style>
+</head>
+<body onclick="kill();">
+<canvas id="canv" width="0px" height="0px"></canvas>
+<link href='http://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>
+<script>
+if (navigator.userAgent.toLowerCase().indexOf("android")!=-1){
+	document.write('<span style="position:absolute;top:15%;left:20%;font-size:40px;font-weight:bold;font-family: \'Actor\', sans-serif;">pwnd<br> -Zolmeister</span>');
+}
+else{
+	document.write('<span style="position:absolute;top:15%;left:20%;font-size:170px;font-weight:bold;font-family: \'Actor\', sans-serif;">pwnd<br> -Zolmeister</span>');
+}
+</script>
+
+<script src="data.js"></script>
+<div id="canvas"></div>
+<script src="protoclass.js"></script>
+<script type="text/javascript" src="box2d.js"></script>
+<script src="main.js"></script>
+<script src="initial.js"></script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Moteevate - Page Not Found</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/static/images/icons/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="css/modal.css" type="text/css" />
+<link rel="stylesheet" href="/css/coreV4.css" type="text/css"/><link rel="stylesheet" href="/css/dropdown.css" type="text/css"/><link rel="stylesheet" href="/css/messages.css" type="text/css"/><meta name="description" content="Moteevate, the world's first moteevational social network." /><meta name="keywords" content="Fitango,actionplan,actionplans,action plan,action plans,motivate,motivational,motivation,achieve,reach,goal,goals,goal setting,goal reaching,resolutions,new years resolutions,diet,exercise,learning,learn,health,fitness,nutrition,body,healthy body,self improvement,setting goals,2011 goals,customized plans,goal management,experts,fitness experts,health experts,arts,entertainment,auto,mechanical,business,legal,careers,occupations,community involvement,sports,green living,environment,wellness,hobbies,crafts,holidays,celebrations,money,savings,budget,parenting,family,child care,pets,animals,relationships,love,self development,spirituality,religion,style,fashion,professional,tech,internet,travel,leisure,marathon training,bootcamp,kettlebell,beauty,body,weight loss,cardio" /><script type="text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script type="text/JavaScript" src="/js/core.js"></script><script type="text/JavaScript" src="/js/autoresize.jquery.min.js"></script><script type="text/JavaScript" src="/js/communityV3.js"></script><script type="text/JavaScript" src="/js/utility/utility.dateTime.js"></script><!-- Google Analytics Code -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-16759462-4']);
+	_gaq.push(['_trackPageview']);
+  _gaq.push(['_setDomainName', '.moteevate.com']);
+</script>
+
+</head>
+ 
+<body  onclick="document_onclick(event);">
+<div id="global_notifications"><div class="global-notification-bar-container"></div></div>
+<a id="feedback_button" onclick="showFeedbackModal(); return false;"></a>
+
+<ul id="search_autocomplete_list" class="object-list search-autocomplete-list" style="none"></ul>
+	<div class="error-wrapper relative">
+
+	<div class="error-search-wrapper clearfix absolute">
+        <div class="left error-search">
+        	<input type="text" />
+        </div>
+        <div class="left error-search-button">
+        	<button class="button bt-silver"> Search </button>
+        </div>
+    </div>
+</div>
+</div>
+<div class="ft-wrapper">
+  <div class="ft-top">
+    <div class="ft-top-center clearfix">
+     	<ul>
+        	<li class="left"><a href="/about-us.php" alt="About us">About us</a></li>
+            <li class="left"><a href="/faq.php" alt="FAQ">FAQ</a></li>
+            <li class="left"><a href="/moteevationary.php" alt="Moteevationary">Moteevationary</a></li>
+            <li class="left"><a href="/learn-more.php" alt="Learn more">Learn more</a></li>
+            <li class="left"><a href="/careers.php" alt="Careers">Careers</a></li>
+            <li class="left"><a href="/copyright-policy.php" alt="Copyright policy">Copyright &copy; Fitango 2012</a></li>
+            <li class="left"><a href="/privacy-policy.php" alt="Privacy Policy">Privacy Policy</a></li>
+            <li class="left"><a href="/terms-of-use.php" alt="Terms and conditions">Terms and conditions</a></li>
+            <li class="left"><span>En <i class="icons language-en"></i></span></li>
+        </ul>    
+    </div>
+  </div>
+  <div class="ft-bottom">
+    <div class="ft-bottom-center center clearfix">
+      <div class="logo left"> <a href="/index.php" title="Moteevate"></a> </div>
+      <ul class="right clearfix">
+        <li class="left"><a class="icons ft-contact" href="/contact-us.php">Contact</a></li>
+        <li class="left"><a class="icons ft-facebook" href="http://www.facebook.com/moteevate">Facebook</a></li>
+        <li class="left"><a class="icons ft-twitter" href="http://twitter.com/#!/moteevatemeto">Twitter</a></li>
+        <li class="left"><a class="icons ft-blog" href="/blog">Blog</a></li>
+        </ul>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+// Google Analytics Code
+$(document).ready(function(){
+	(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+});
+</script>
+<script src="/js/modal.js" type="text/javascript"></script>
+<div id="fb-root"></div>
+<script src="/js/jquery_debug.js" type="text/javascript"></script>
+<!--<script src="http://platform.twitter.com/anywhere.js?id=1&v=1" type="text/javascript"></script>-->
+<!--<script src="/js/twitter.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://platform.linkedin.com/in.js">api_key:
+Notice: Use of undefined constant LINKEDIN_PUB_KEY - assumed 'LINKEDIN_PUB_KEY' in /var/moteevate/scripts/includes/footer_shared.inc.php on line 27
+LINKEDIN_PUB_KEY
+<script src="/js/linkedin.js" type="text/javascript"></script> -->
+<script type="text/JavaScript" src="/js/login.js"></script>
+<script type="text/javascript">
+	// load twitter button
+	// load facebook js
+	var server_name = 'www.moteevate.com';
+// move this url to static in function
+//var twitter_login_url = '/scripts/includes/login/twitter_redirect.php';
+// twitter needs to have a blank page to close the popup
+//twttr.anywhere.config({ callbackURL: "http://www.moteevate.com/scripts/includes / login / blank_page_twitter_callback.php" });
+$(document).ready(function(){
+
+var fb_app_id = '186504684769001';
+window.fbAsyncInit = function() {
+	FB.init({
+		appId: '186504684769001',
+		status : true, // check login status
+		cookie : true, // enable cookies to allow the server to access the session
+		xfbml  : true,  // parse XFBML
+		oauth  : true,
+	    channelURL : 'http://www.moteevate.com/channel.html', // channel.html file
+	});
+	if(typeof window.FB_loaded_callback == 'function'){
+		window.FB_loaded_callback();
+	}
+};
+(function() {
+if(typeof FB=='undefined'){
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol
+        + '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+    }
+    else{
+    	window.fbAsyncInit();
+    }
+}());
